@@ -1,7 +1,1 @@
-waqeqweqwe
-
-
-
-
-
-111111111111
+print('first step')
